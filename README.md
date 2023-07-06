@@ -1,9 +1,8 @@
 
 ![Alt Text](https://github.com/webguru11124/react-spreadsheet/blob/main/Peek%202023-07-07%2006-12.gif)
 
-# Quicksheets
+# Spreadsheet with React
 
-A simple browser-based spreadsheet app: <https://sheets.habbes.xyz>
 
 ![Quicksheets screencast](screencast.gif)
 
